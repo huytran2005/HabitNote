@@ -20,8 +20,8 @@
 | ⚙️ Gradle 8.x, Kotlin 1.9.x     | Build system và ngôn ngữ chính của app     |
 
 ## 🖼️ Một số hình ảnh
+![Note Editor](https://github.com/user-attachments/assets/6df33e97-69b6-428c-8875-b52abb10dcfb)
 
-![Note Editor](https://github.com/user-attachments/assets/a5afcc07-50fc-4055-a925-dbf914e43adb)
 ![Others](https://github.com/user-attachments/assets/0fd8be0d-e699-4561-a0bb-273fb9407dcf)
 ![Registration and Login](https://github.com/user-attachments/assets/c77667d4-b381-4c71-bbcc-9960cb9ebfa6)
 
