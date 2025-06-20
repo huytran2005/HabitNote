@@ -16,8 +16,8 @@
 | 🧭 Navigation Compose | Điều hướng giữa các màn hình |
 | 🛠 ViewModel + StateFlow | Quản lý trạng thái và vòng đời |
 | 🎨 Material3 | Giao diện đẹp mắt và responsive |
-| ☕ Java 17 (JetBrains Runtime 21.0.5)
-| ⚙️ Gradle 8.x, Kotlin 1.9.x
+| ☕ Java 17 (JetBrains Runtime 21.0.5)| Ngôn ngữ nền tảng để build project     |
+| ⚙️ Gradle 8.x, Kotlin 1.9.x     | Build system và ngôn ngữ chính của app     |
 
 ## 🖼️ Một số hình ảnh
 
